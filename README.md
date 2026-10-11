@@ -20,3 +20,9 @@ Small, scoped paid projects involving technical writing and editing, public-sour
 - Application source code, credentials and customer data remain private.
 
 Educational demonstrations are not claimed as paid-client results.
+
+## Project enquiries
+
+For non-confidential project enquiries, [open a public GitHub issue](https://github.com/cevnac99/cevnac99/issues/new). Include a short scope and, if public, your budget and deadline. This is for initial contact only.
+
+Issues are public. Do not post private code, credentials, personal details or confidential files.
